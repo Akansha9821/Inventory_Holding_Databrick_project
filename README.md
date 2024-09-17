@@ -54,7 +54,11 @@
 #### * Calculate Bias using the formula:
 ## Bias = (sum(Demand_Quantity(cases)-sum(Actual_Demand_Quantity(cases)) / sum(Actual_demand(cases))
 
-####### I've attached the output data frame result with the Scheduled job ss.
+###### I've attached the output data frame result with the Scheduled job ss.
 
-
+![1. Daily Metrics Calculation Inventory](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/daily_weekly_output.png?raw=true)
+![2. Bias Metrics Calculation Inventory](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/Bias_Calculation_%25_output.png?raw=true)
+![3. Cluster Info](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/db_cluster_info.png?raw=true)
+![4. Inventory JOB Schedule](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/fill_databrick_ss.png?raw=true)
+![5. Inventory JOB Schedule 2](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/job_ss_1.png?raw=true)
 
