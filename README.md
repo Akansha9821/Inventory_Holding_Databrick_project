@@ -56,9 +56,13 @@
 
 ###### I've attached the output data frame result with the Scheduled job ss.
 
-![1. Daily Metrics Calculation Inventory](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/daily_weekly_output.png?raw=true)
-![2. Bias Metrics Calculation Inventory](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/Bias_Calculation_%25_output.png?raw=true)
-![3. Cluster Info](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/db_cluster_info.png?raw=true)
-![4. Inventory JOB Schedule](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/fill_databrick_ss.png?raw=true)
-![5. Inventory JOB Schedule 2](https://github.com/Akansha9821/Inventory_Holding_Databrick_project/blob/main/job_ss_1.png?raw=true)
+<img width="649" alt="Bias_Calculation_%_output" src="https://github.com/user-attachments/assets/423183dd-cfdd-4c11-a1d5-8a14ccc3ecf3">
+
+<img width="649" alt="daily_weekly_output" src="https://github.com/user-attachments/assets/6208acc2-60ee-4d75-8bdc-046ce733bcca">
+
+<img width="649" alt="db_cluster_info" src="https://github.com/user-attachments/assets/951d494e-830a-4a6a-ae68-3a59fafafba0">
+
+<img width="649" alt="fill_databrick_ss" src="https://github.com/user-attachments/assets/e61386f0-3414-4590-8a0a-c9da2433befb">
+
+<img width="649" alt="job_ss_1" src="https://github.com/user-attachments/assets/bb8b29ce-e0db-47a0-b62a-2868d183c290">
 
